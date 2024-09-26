@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @stellah660
 - software developer
-- currently familiarising with codeigniter framework
 - 📫 How to reach me email:valestellah165@gmail.com or benstella246@gmail
 
 <!---
